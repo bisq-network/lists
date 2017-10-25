@@ -1,0 +1,3 @@
+= Bisq mailing lists
+
+This repository is primarily for tracking issues related to the Mailman service at https://lists.bisq.network.
