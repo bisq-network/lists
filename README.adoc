@@ -1,3 +1,3 @@
 = Bisq mailing lists
 
-This repository is primarily for tracking issues related to the Mailman service at https://lists.bisq.network.
+This repository is primarily for tracking issues related to the Mailman service at https://lists.bisq.network. See also the https://github.com/bisq-network/roles/blob/master/mailing-list-operator.adoc[mailing list operator role specification].
